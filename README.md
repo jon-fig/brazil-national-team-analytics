@@ -1,5 +1,5 @@
 🇧🇷 *[Clique aqui para ler a versão em Português](#-análise-da-seleção-brasileira-de-futebol)*
-# Brazil-National-Team-Analytics
+# Brazil National Team Analytics
 
 An interactive Business Intelligence dashboard analyzing the historical performance of the Brazil Men's National Football Team (Seleção Brasileira) across more than a century of international matches. Built using Metabase and SQL, this project translates raw match data into actionable insights regarding win rates, high-scoring fixtures, competition performance, and top rivalries.
 
